@@ -1,0 +1,118 @@
+
+
+#mainh{
+text-transform: uppercase;
+text-align: center;
+background-color: #1e2e4a;
+padding-top: 20px;
+padding-bottom: 5px;
+margin-top: 0px;
+margin-bottom: 0px;
+color: #b0b8b4ff;
+letter-spacing: .08em;
+}
+
+body{
+background-image: url('http://www.badmintonengland.co.uk/wp-content/uploads/2020/06/reasons-why-badminton-is-good-for-your-mental-health.png');
+background-repeat: no-repeat;
+background-size: 100%;
+margin: 0px;
+font-size: 18px;
+/*background-color: #9cab5c; */
+background-color: #465e3b;
+}
+
+button{
+padding: 24px;
+text-transform: uppercase;
+font-size: 1.2em;
+letter-spacing: .1em;
+border: 0px;
+border-collapse: collapse;
+background-color: #b0b8b4ff;
+cursor: hand;
+display: block;
+width: 245px;
+text-align: center;
+margin: 5px;
+font-family: TimesNewRoman;
+}
+
+button:hover{
+background-color: #5d5553;
+color: white;
+cursor: pointer;
+}
+
+h2{
+text-align: center;
+background-color: grey;
+font-size: 2em;
+letter-spacing: .25em;
+text-transform: uppercase;
+font-family: helvetica;
+font-weight: normal;
+padding: 32px 0px 15px; 
+margin-top: 0px; 
+margin-bottom: -5px;
+}
+
+
+
+
+
+img{
+padding: 5px;
+
+}
+#im1{
+
+width: 49%;
+float: left;
+}
+
+#im2{
+
+width: 49%;
+}
+
+#im3{
+
+width: 49%;
+float: left;
+
+}
+
+#im4{
+
+width: 49%;
+
+}
+
+div{
+width: 100%;
+display: inline-block;
+border: 1px solid black;
+}
+
+.city{
+background-color: tomato;
+color: white;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+
+}
+
+.imp{
+color: red;
+font-size: 2em;
+}
+
+
+iframe{
+width: 600px;
+height: 800px;
+align-items: center;
+padding: 100px;
+}
